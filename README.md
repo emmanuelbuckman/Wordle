@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/PoXqwzS3fu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/loXtQHISBv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap 
+GIF created with [Recordit](https://www.recordit.co)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) -->
 
